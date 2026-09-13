@@ -1,0 +1,3 @@
+[submodule "Debugger/AITools"]
+	path = Debugger/AITools
+	url = https://github.com/ShaF-u/claude-context-templates.git
