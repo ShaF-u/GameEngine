@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "gameengine-ai-tools": {
+      "type": "stdio",
+      "command": "Debugger/AITools/build/Core/Debug/aistudio_core_cli.exe",
+      "args": [
+        "--mcp"
+      ],
+      "env": {}
+    }
+  }
+}
